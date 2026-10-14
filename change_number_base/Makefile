@@ -5,7 +5,7 @@ CXXFLAGS := -Wall -Wextra -Werror -std=c++17
 
 OUT_DIR := out
 
-TARGET := convert
+TARGET := cnb
 TEST_TARGET := $(OUT_DIR)/t_convert
 
 OBJS := \
